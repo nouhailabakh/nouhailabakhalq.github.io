@@ -1,0 +1,117 @@
+baseURL: ""
+languageCode: "fr"
+title: "Nouhaila Bakhalq"
+theme: "PaperMod"
+
+params:
+  env: production
+  title: "Nouhaila Bakhalq"
+  description: "Portfolio de Nouhaila Bakhalq"
+  keywords: [Portfolio, Cybersecurité, Projets, Nouhaila Bakhalq]
+  author: "Nouhaila Bakhalq"
+  images: ["home/profil.jpg"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  profileMode:
+    enabled: true
+    title: "Nouhaila Bakhalq"
+    subtitle: "Salut 👋 Je suis Nouhaila, étudiante en Master Ingénierie Informatique et Sécurité des Systèmes. Passionnée par la cybersécurité, je partage ici les projets sur lesquels j'ai travaillé."
+    imageUrl: "home/profile1.jpg"
+    imageWidth: 220
+    imageHeight: 220
+    buttons:
+      - name: "Mes Projets"
+        url: "/projects"
+      - name: "Me Contacter"
+        url: "mailto:ton.email@example.com"
+
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
+
+  label:
+  text: "Nouhaila Bakhalq"
+  icon: "/images/LOGO.jpg"   # <--- Chemin correct
+  iconHeight: 40
+
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/nouhailabakh/nouhailabakhalq"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/nouhaila-bakhalq-0745802b1/"
+    - name: email
+      url: "nouhaila.bakhalq2020@gmail.com"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+  image: "/crypto/schema.png"
+  hidden: true
+  hiddenInList: true
+  hiddenInSingle: true
+
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggérer des modifications"
+    appendFilePath: true
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: projects
+      name: "Projets"
+      url: "/projects/"
+      weight: 10
+    - identifier: cv
+      name: "CV"
+      url: "/cv/"
+      weight: 20
+    - identifier: contact
+      name: "Contact"
+      url: "mailto:ton.email@example.com"
+      weight: 30
+
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+
