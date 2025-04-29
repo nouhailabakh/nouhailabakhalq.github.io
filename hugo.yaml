@@ -1,7 +1,10 @@
-baseURL: "http://nouhailabakh.github.io/"
+baseURL: "https://nouhailabakh.github.io/nouhailabakha.github.io/"
 languageCode: "fr"
 title: "Nouhaila Bakhalq"
+pagination:
+  pagersize: 10
 theme: "PaperMod"
+
 
 params:
   env: production

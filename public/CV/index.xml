@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CVs on Nouhaila Bakhalq</title>
-    <link>//localhost:1313/cv/</link>
+    <link>https://nouhailabakh.github.io/nouhailabakha.github.io/cv/</link>
     <description>Recent content in CVs on Nouhaila Bakhalq</description>
     <image>
       <title>Nouhaila Bakhalq</title>
-      <url>//localhost:1313/home/profil.jpg</url>
-      <link>//localhost:1313/home/profil.jpg</link>
+      <url>https://nouhailabakh.github.io/nouhailabakha.github.io/home/profil.jpg</url>
+      <link>https://nouhailabakh.github.io/nouhailabakha.github.io/home/profil.jpg</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/cv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nouhailabakh.github.io/nouhailabakha.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mon CV</title>
-      <link>//localhost:1313/cv/cv1/</link>
+      <link>https://nouhailabakh.github.io/nouhailabakha.github.io/cv/cv1/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/cv/cv1/</guid>
+      <guid>https://nouhailabakh.github.io/nouhailabakha.github.io/cv/cv1/</guid>
       <description>Découvrez mon parcours et mes compétences professionnelles.</description>
     </item>
   </channel>

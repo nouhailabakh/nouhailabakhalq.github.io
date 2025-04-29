@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PIR on Nouhaila Bakhalq</title>
-    <link>//localhost:1313/tags/pir/</link>
+    <link>https://nouhailabakh.github.io/nouhailabakha.github.io/tags/pir/</link>
     <description>Recent content in PIR on Nouhaila Bakhalq</description>
     <image>
       <title>Nouhaila Bakhalq</title>
-      <url>//localhost:1313/home/profil.jpg</url>
-      <link>//localhost:1313/home/profil.jpg</link>
+      <url>https://nouhailabakh.github.io/nouhailabakha.github.io/home/profil.jpg</url>
+      <link>https://nouhailabakh.github.io/nouhailabakha.github.io/home/profil.jpg</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>fr</language>
-    <atom:link href="//localhost:1313/tags/pir/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nouhailabakh.github.io/nouhailabakha.github.io/tags/pir/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Système Intelligent de Gestion de l’Éclairage Public</title>
-      <link>//localhost:1313/projects/projet4/</link>
+      <link>https://nouhailabakh.github.io/nouhailabakha.github.io/projects/projet4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/projet4/</guid>
+      <guid>https://nouhailabakh.github.io/nouhailabakha.github.io/projects/projet4/</guid>
       <description>Ajustement automatique de l&amp;#39;intensité lumineuse en fonction de la luminosité ambiante et de la détection de présence grâce à des capteurs PIR et LDR, avec envoi des données vers ThingSpeak.</description>
     </item>
   </channel>

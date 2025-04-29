@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sécurité Réseau on Nouhaila Bakhalq</title>
-    <link>//localhost:1313/tags/s%C3%A9curit%C3%A9-r%C3%A9seau/</link>
+    <link>https://nouhailabakh.github.io/nouhailabakha.github.io/tags/s%C3%A9curit%C3%A9-r%C3%A9seau/</link>
     <description>Recent content in Sécurité Réseau on Nouhaila Bakhalq</description>
     <image>
       <title>Nouhaila Bakhalq</title>
-      <url>//localhost:1313/home/profil.jpg</url>
-      <link>//localhost:1313/home/profil.jpg</link>
+      <url>https://nouhailabakh.github.io/nouhailabakha.github.io/home/profil.jpg</url>
+      <link>https://nouhailabakh.github.io/nouhailabakha.github.io/home/profil.jpg</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/s%C3%A9curit%C3%A9-r%C3%A9seau/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nouhailabakh.github.io/nouhailabakha.github.io/tags/s%C3%A9curit%C3%A9-r%C3%A9seau/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conception d’un VPN Poste à Site avec pfSense</title>
-      <link>//localhost:1313/projects/projet3/</link>
+      <link>https://nouhailabakh.github.io/nouhailabakha.github.io/projects/projet3/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/projet3/</guid>
+      <guid>https://nouhailabakh.github.io/nouhailabakha.github.io/projects/projet3/</guid>
       <description>Mise en place et configuration d’un réseau privé virtuel (VPN) sécurisé basé sur pfSense et OpenVPN pour assurer la confidentialité et l’intégrité des communications.</description>
     </item>
   </channel>
